@@ -1,0 +1,25 @@
+baseURL = "https://peterzhou.github.io/personal-website/"
+languageCode = "en-us"
+title = "Peter Zhou"
+theme = "PaperMod"
+
+[params]
+  description = "Personal blog and website"
+  author = "Peter Zhou"
+  
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/peterzhou"
+
+[menu]
+  [[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+  
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
