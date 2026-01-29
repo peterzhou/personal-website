@@ -1,4 +1,4 @@
-baseURL = "https://peterzhou.github.io/personal-website/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Peter Zhou"
 theme = "PaperMod"
