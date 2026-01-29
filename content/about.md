@@ -6,6 +6,8 @@ ShowReadingTime: false
 ShowShareButtons: false
 ---
 
-This is my personal website and blog.
+I'm Peter.
 
-More information coming soon.
+I run a company called [**Rutter**](https://rutter.com/), which provides integrations infrastructure for B2B fintechs and banks.
+
+I currently live in NYC but spend most of my time between NYC and SF.
